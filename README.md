@@ -1,16 +1,38 @@
-### Hi there 👋
+### 你好，我是程序员不秃头
 
-<!--
-**FangPengbo/FangPengbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+#### github基础统计信息
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+
+<a href="https://github.com/FangPengbo">
+  <img align="left" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api?username=FangPengbo&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/FangPengbo">
+  <img align="center" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangPengbo&layout=compact" />
+</a>
+
+</div>
+
+
+----
+
+
+
+#### 最新开源
+
+----
+<a href="https://github.com/FangPengbo/classend">
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=FangPengbo&repo=classend&theme=dracula" />
+</a>
+
+
+
+
+----
+
+#### 定制
+
+> 想定制自己的主页，前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 项目
