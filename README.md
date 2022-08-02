@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
 <a href="https://ddddddddd.top">
-  <img align="center" height="91.9px" width="200px" src="https://blog.ddddddddd.top/upload/2021/03/logo-f8bbad1dbd0849488b7668ec654a23c9.png" />
+  <img align="center" height="91.9px" width="200px" src="https://blog.ddddddddd.top/logo" />
 </a>
 </div>
 
