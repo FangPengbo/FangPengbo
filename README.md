@@ -26,5 +26,9 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=FangPengbo&repo=exhale&theme=dracula" />
 </a>
 
+<a href="https://github.com/FangPengbo/javaman">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=FangPengbo&repo=javaman&theme=dracula" />
+</a>
+
 ### 定制
 > 想定制自己的主页，前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 项目
