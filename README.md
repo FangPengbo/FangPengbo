@@ -3,10 +3,10 @@
 **我的个人网站**
 
 <div style="display: flex;">
-<a href="https://ddddddddd.top">
+<a href="https://ddddddddd.top" target="_blank">
   <img align="center"  src="https://blog.ddddddddd.top/logo" />
 </a>
-<a href="https://blog.ddddddddd.top/">
+<a href="https://blog.ddddddddd.top/" target="_blank">
   <img align="center"  src="https://blog.ddddddddd.top/logo" />
 </a>
 </div>
