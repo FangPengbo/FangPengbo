@@ -1,26 +1,29 @@
-### 你好陌生人，我是Root
----- 
-**我的个人网站**
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="你好陌生人，我是程序员不秃头" src="./assets/gh-readme-header.png" /></a></p>
 
-<div style="display: flex;">
-<a href="https://ddddddddd.top" target="_blank">
-  <img align="center"  src="https://blog.ddddddddd.top/logo" />
-</a>
-<a href="https://blog.ddddddddd.top/" target="_blank">
-  <img align="center"  src="https://blog.ddddddddd.top/logo" />
-</a>
-</div>
+<br />
 
-### 我的github统计数据
-<div style="display: flex;">
-<a href="https://github.com/FangPengbo">
-  <img align="left" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api?username=FangPengbo&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/FangPengbo">
-  <img align="center" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangPengbo&layout=compact" />
-</a>
-</div>
+我是一名后端开发者
 
- 
-### 定制
-> 想定制自己的主页，前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 项目
+**About me**
+
+- ❤️ 我的个人网站 [focc.cc](https://focc.cc)
+
+- ❤️ 我的个人博客 [blog.ddddddddd.top](https://blog.ddddddddd.top)
+
+- ❤️ 喜欢看科幻电影、喜欢读科幻小说、喜欢玩养成类游戏、喜欢玩滑板、喜欢打篮球、喜欢猫猫狗狗。
+
+| <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FangPengbo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FangPengbo's github stats" /></a> | <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangPengbo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/FangPengbo/exhale">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FangPengbo&repo=exhale&theme=buefy" />
+</a>
+<a href="https://github.com/FangPengbo/tmall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FangPengbo&repo=tmall&theme=buefy" />
+</a>
+
+<br />
+<br />
