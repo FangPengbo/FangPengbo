@@ -12,17 +12,17 @@
 
 - ❤️ 喜欢看科幻电影、喜欢读科幻小说、喜欢玩养成类游戏、喜欢玩滑板、喜欢打篮球、喜欢猫猫狗狗。
 
-| <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FangPengbo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FangPengbo's github stats" /></a> | <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangPengbo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FangPengbo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FangPengbo's github stats" /></a> | <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FangPengbo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/FangPengbo/exhale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FangPengbo&repo=exhale&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FangPengbo&repo=exhale&theme=buefy" />
 </a>
 <a href="https://github.com/FangPengbo/tmall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FangPengbo&repo=tmall&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FangPengbo&repo=tmall&theme=buefy" />
 </a>
 
 <br />
