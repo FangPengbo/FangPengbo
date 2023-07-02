@@ -19,8 +19,8 @@
 <a href="https://github.com/FangPengbo/exhale">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FangPengbo&repo=exhale&theme=buefy" />
 </a>
-<a href="https://github.com/FangPengbo/tmall">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FangPengbo&repo=tmall&theme=buefy" />
+<a href="https://github.com/FangPengbo/backup-cavy">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FangPengbo&repo=backup-cavy&theme=buefy" />
 </a>
 
 <br />
