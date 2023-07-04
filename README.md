@@ -2,8 +2,6 @@
 
 <br />
 
-我是一名后端开发者
-
 **About me**
 
 - ❤️ 我的个人网站 [focc.cc](https://focc.cc)
