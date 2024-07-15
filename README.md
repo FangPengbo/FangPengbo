@@ -1,24 +1,17 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="你好陌生人，我是程序员不秃头" src="./assets/gh-readme-header.png" /></a></p>
+## Fang Pengbo
 
-<br />
+<!--START_SECTION:waka-->
 
-**About me**
+```txt
+From: 06 July 2024 - To: 13 July 2024
 
-- 一名后端开发
+Total Time: 22 hrs 52 mins
 
-| <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FangPengbo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FangPengbo's github stats" /></a> | <a href="https://github.com/FangPengbo/FangPengbo"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FangPengbo&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<!--
-#### Top Repositories
+TypeScript        9 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.44 %
+Vue.js            5 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Java              2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+YAML              2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Markdown          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+```
 
-
-<a href="https://github.com/FangPengbo/exhale">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FangPengbo&repo=exhale&theme=buefy" />
-</a>
-<a href="https://github.com/FangPengbo/backup-cavy">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FangPengbo&repo=backup-cavy&theme=buefy" />
-</a>
-
-<br />
-<br />
--->
+<!--END_SECTION:waka-->
