@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-Total Time: 21 hrs 10 mins
+Total Time: 20 hrs 34 mins
 
-Go           7 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   35.13 %
-Vue.js       6 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   32.60 %
-SQL          2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-JSON         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-TypeScript   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Vue.js       7 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.63 %
+Go           6 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 %
+SQL          2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+JSON         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+TypeScript   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
 ```
 
 <!--END_SECTION:waka-->
