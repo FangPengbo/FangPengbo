@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2024 - To: 03 October 2024
+From: 27 September 2024 - To: 04 October 2024
 
-Total Time: 3 hrs 1 min
+Total Time: 1 hr 34 mins
 
-Go            1 hr 36 mins    █████████████▒░░░░░░░░░░░   53.23 %
-YAML          1 hr 7 mins     █████████▒░░░░░░░░░░░░░░░   37.18 %
-Java          14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Smarty        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Go Template   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Go       1 hr 22 mins    ██████████████████████░░░   87.88 %
+YAML     10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
