@@ -3,12 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 45 mins
+Total Time: 1 hr 50 mins
 
-Go    43 mins         ███████████████████████▓░   94.53 %
-SQL   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Go           1 hr 27 mins    ████████████████████░░░░░   79.52 %
+SQL          9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Markdown     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+go.mod       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
