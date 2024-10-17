@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2024 - To: 15 October 2024
+From: 09 October 2024 - To: 16 October 2024
 
-Total Time: 11 hrs 46 mins
+Total Time: 11 hrs 17 mins
 
-Go             6 hrs 7 mins    █████████████░░░░░░░░░░░░   52.01 %
-YAML           1 hr 55 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-Java           1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-SQL            59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Docker         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Go             5 hrs 24 mins   ████████████░░░░░░░░░░░░░   47.85 %
+YAML           1 hr 57 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+Java           1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+SQL            1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Docker         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
 ```
 
 <!--END_SECTION:waka-->
