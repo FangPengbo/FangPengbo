@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Total Time: 13 hrs 31 mins
+Total Time: 12 hrs 23 mins
 
-Go               11 hrs 56 mins  ██████████████████████░░░   88.26 %
-Java             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Python           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-YAML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-SQL              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Go               10 hrs 53 mins  ██████████████████████░░░   87.94 %
+Java             45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Python           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+YAML             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
