@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2024 - To: 06 November 2024
+From: 31 October 2024 - To: 07 November 2024
 
-Total Time: 18 hrs 28 mins
+Total Time: 18 hrs 45 mins
 
-Go                8 hrs 38 mins   ███████████▓░░░░░░░░░░░░░   46.74 %
-Python            5 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   31.94 %
-Java              1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Other             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-SQL               44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Go                7 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   39.39 %
+Python            6 hrs 20 mins   ████████▒░░░░░░░░░░░░░░░░   33.77 %
+Java              1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+SQL               1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Other             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
